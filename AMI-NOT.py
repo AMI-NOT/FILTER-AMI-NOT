@@ -36,7 +36,7 @@ if gl=='a':
     lok = input(Fore.BLUE+' Enter code shakhsi: ')
     virus = input(Fore.BLUE+' Enter code virus:')
     server = input(Fore.BLUE+'Enter code server')
-    amir =(bu+'FILTERIG'+server+'sex.sex.sex'+xx+'/'+tor+'))'+lok+'/sex-filter='+virus+'rubika-filter.py(AMI-NOT)filter')
+    amir =(bu+'FILTERIG='+server+'[sex.sex.sex]'+xx+'(('+tor+'))'+lok+'[sex-filter='+virus+'rubika-filter.py(AMI-NOT)filter]')
     print(amir)
 algoritm = ["/y//d/f/","/f//d/","/d//f/h/","/f//a/y/","/e////f.h/","/f/h.u//","/f////g.h/","/g//d/","/f/h.g//","/r//g/h"]
 alguritm = choice(algoritm)
