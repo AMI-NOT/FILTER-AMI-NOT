@@ -47,7 +47,7 @@ print(Fore.CYAN+'           filter                                              
 
 
 password = input("enter youre pass : ")
-while password != ("9"):
+while password != ("AMI-NOT-79"):
 	print(Fore.RED+'password ×')
 	password = input("enter youre pass : ")
 print(Fore.GREEN+'pasword☆')
